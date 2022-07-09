@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="tests" name="FirefoxTest(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="com.testing.fbregistration.feceBookRegTestNG">
+        <methods>
+          <include name="launchapp"/>
+          <include name="registration"/>
+          <include name="closeBrowser"/>
+        </methods>
+      </class> <!-- com.testing.fbregistration.feceBookRegTestNG -->
+    </classes>
+  </test> <!-- FirefoxTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->
