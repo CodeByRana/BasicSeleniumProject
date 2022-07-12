@@ -1,4 +1,4 @@
-package com.testing.selenium.SeleniumFirstProject;
+package com.testing.selenium.basic;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.chrome.ChromeDriver;

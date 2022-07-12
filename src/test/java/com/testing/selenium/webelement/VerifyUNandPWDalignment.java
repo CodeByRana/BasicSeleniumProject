@@ -1,4 +1,4 @@
-package com.testing.selenium.SeleniumFirstProject;
+package com.testing.selenium.webelement;
 
 import java.util.concurrent.TimeUnit;
 

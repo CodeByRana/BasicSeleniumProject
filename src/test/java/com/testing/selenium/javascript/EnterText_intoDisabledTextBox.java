@@ -1,4 +1,4 @@
-package com.testing.selenium.SeleniumFirstProject;
+package com.testing.selenium.javascript;
 
 import java.util.Scanner;
 import java.util.concurrent.TimeUnit;

@@ -1,4 +1,4 @@
-package com.testing.fbregistration;
+package com.testing.selenium.fbregis;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

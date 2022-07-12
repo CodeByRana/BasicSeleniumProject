@@ -1,4 +1,4 @@
-package com.testing.fbregistration;
+package com.testing.selenium.fbregis;
 
 import java.util.concurrent.TimeUnit;
 

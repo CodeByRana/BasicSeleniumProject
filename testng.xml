@@ -14,7 +14,8 @@
     <classes>
       <class name="com.testing.fbregistration.feceBookRegTestNG"/>
     </classes>
-  </test> <!-- Test -->
+  </test> 
+  <!-- Test -->
   
   
   

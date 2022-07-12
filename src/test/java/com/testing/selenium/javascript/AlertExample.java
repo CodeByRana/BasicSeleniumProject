@@ -21,6 +21,8 @@ public class AlertExample {
 		alertMessage = driver.switchTo().alert().getText();
 		driver.switchTo().alert().accept();
 		System.out.println(alertMessage);
+		
+		driver.close();
 	}
 
 }
